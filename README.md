@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 - I'm interested in `Elixir`, `JS`(`TS`) and `Python` projects.
@@ -19,7 +18,6 @@ Here are some ideas to get you started:
 - I mostly work with `Elixir` on the backend and `Angular` on the frontend.
   I use `Docker`🐳 to develop and deploy all my projects.
 
-- I play 🏀 when there is no 🦠. I code both professionally and for fun.
-
-- 💬 Feel free to ask me about anything.
+- ⚡ I play 🏀 when there is no 🦠. I code both professionally and for fun.
+- 💬 I speak Mandarin Chinese and English.
 - 📫 How to reach me: chenpaul914@G📧 (Well it's on my GitHub Profile)
