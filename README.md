@@ -19,5 +19,6 @@ Here are some ideas to get you started:
   I use `Docker`🐳 to develop and deploy all my projects.
 
 - ⚡ I play 🏀 when there is no 🦠. I code both professionally and for fun.
+- 😷 I prefer to wear a mask even when not required.
 - 💬 I speak Mandarin Chinese and English.
 - 📫 How to reach me: chenpaul914@G📧 (Well it's on my GitHub Profile)
