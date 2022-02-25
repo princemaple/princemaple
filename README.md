@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - 😷 I prefer to wear a mask even when not required.
 - 💬 I speak Mandarin Chinese and English.
 - 📫 How to reach me: chenpaul914@G📧 (Well it's on my GitHub Profile)
+
+🕊️ World Peace ✌️
